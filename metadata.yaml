@@ -1,0 +1,30 @@
+_repo: Quotes-and-Images-From-Memoirs-of-Cardinal-De-Retz_7564
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Retz, Jean François Paul de Gondi de
+    birthdate: 1613
+    deathdate: 1679
+    gutenberg_agent_id: '1329'
+    url: http://www.gutenberg.org/2009/agents/1329
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Fran%C3%A7ois_Paul_de_Gondi%2C_cardinal_de_Retz
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7564'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Quotations'
+- GITenberg
+title: Quotes and Images From Memoirs of Cardinal De Retz
+url: http://www.gutenberg.org/ebooks/7564
